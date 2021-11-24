@@ -35,7 +35,7 @@ python setup.py develop
 
 dataset: https://drive.google.com/file/d/1uZsHcxr3lrwpEnUTrBcav1kxCUZ97YEU/view?usp=sharing
 
-model :https://drive.google.com/file/d/1w0-x191BjPweXblkUTLEXqO6WZrZ5pRO/view?usp=sharing
+model :https://drive.google.com/file/d/16y1QVesBemEWRj4k_FRGpIrpxS7MKstB/view?usp=sharing
 
 2. Data location: ./DATA/
 3. Model location: ./Models/BS4_UE40_Bh20
